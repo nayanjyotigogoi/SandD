@@ -54,9 +54,9 @@ We welcome contributions! If you have ideas for new features or improvements, fe
 
 For inquiries or collaborations, you can reach out to us at:
 
-- **Email**: support@sd-solutions.com
-- **Website**: [MYGHYCITY.com](http://www.myghycity.com)
-- **Phone**: +123 456 7890
+- **Email**:
+- **Website**:
+- **Phone**: 
 
 ---
 
