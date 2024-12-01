@@ -4,9 +4,9 @@
         <div class="md-w-25pc mb-10">
             <img src="{{ asset('images/logo.png') }}" class="w-l5" alt="Logo">
             <div class="white opacity-70 fs-s2 mt-4 md-pr-10">
-                <p>Soluta voluptate et optio. Eos quasi impedit sapiente aliquid eius eligendi at. Necessitatibus magni et sed quod quas minima.</p>
+                <p>A versatile company offering a wide range of services including IT Solutions, Construction, Public Works, Clothing, and Transportation. We specialize in creating innovative solutions for every industry, building a better future through development and cutting-edge technology.</p>
                 <br>
-                <p>Soluta voluptate et optio. Eos quasi impedit sapiente aliquid eius eligendi at. Necessitatibus magni et sed quod quas minima.</p>
+                <p>GUWAHATI, ASSAM.</p>
             </div>
         </div>
 
@@ -19,26 +19,22 @@
                     <ul class="list-none mt-5 fs-s2">
                         <li class="my-3"><a href="#" class="white opacity-70 no-underline hover-underline">About Us</a></li>
                         <li class="my-3"><a href="#" class="white opacity-70 no-underline hover-underline">Jobs</a></li>
-                        <li class="my-3"><a href="#" class="white opacity-70 no-underline hover-underline">Contact</a></li>
-                        <li class="my-3"><a href="#" class="white opacity-70 no-underline hover-underline">Media</a></li>
+                        <li class="my-3"><a href="#" class="white opacity-70 no-underline hover-underline">Services</a></li>
+                        
                     </ul>
                 </div>
                 <!-- Product Links -->
                 <div class="w-33pc md-px-10 mb-10">
                     <h5 class="white">Product</h5>
                     <ul class="list-none mt-5 fs-s2">
-                        <li class="my-3"><a href="#" class="white opacity-70 no-underline hover-underline">About Us</a></li>
-                        <li class="my-3"><a href="#" class="white opacity-70 no-underline hover-underline">Jobs</a></li>
-                        <li class="my-3"><a href="#" class="white opacity-70 no-underline hover-underline">Contact</a></li>
-                        <li class="my-3"><a href="#" class="white opacity-70 no-underline hover-underline">Media</a></li>
+                        <li class="my-3"><a href="#" class="white opacity-70 no-underline hover-underline">MYGHYCITY.COM</a></li>
+                        <li class="my-3"><a href="#" class="white opacity-70 no-underline hover-underline">devSphere</a></li>
                     </ul>
                 </div>
                 <!-- Support Links -->
                 <div class="w-33pc md-px-10 mb-10">
                     <h5 class="white">Support</h5>
                     <ul class="list-none mt-5 fs-s2">
-                        <li class="my-3"><a href="#" class="white opacity-70 no-underline hover-underline">About Us</a></li>
-                        <li class="my-3"><a href="#" class="white opacity-70 no-underline hover-underline">Jobs</a></li>
                         <li class="my-3"><a href="#" class="white opacity-70 no-underline hover-underline">Contact</a></li>
                         <li class="my-3"><a href="#" class="white opacity-70 no-underline hover-underline">Media</a></li>
                     </ul>

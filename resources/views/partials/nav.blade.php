@@ -10,9 +10,10 @@
     </div>
     <div id="nav-items" class="hidden flex sm-w-100pc flex-column md-flex md-flex-row md-justify-end items-center">
         <a href="#home" class="fs-s1 mx-3 py-3 indigo no-underline hover-underline">Home</a>
+        <a href="#About" class="fs-s1 mx-3 py-3 indigo no-underline hover-underline">About Us</a>
         <a href="#features" class="fs-s1 mx-3 py-3 indigo no-underline hover-underline">Features</a>
-        <!-- <a href="#pricing" class="fs-s1 mx-3 py-3 indigo no-underline hover-underline">Pricing</a>
-        <a href="#blog" class="fs-s1 mx-3 py-3 indigo no-underline hover-underline">Blog</a> -->
+        <a href="#Products" class="fs-s1 mx-3 py-3 indigo no-underline hover-underline">Products</a>
+        <a href="#pricing" class="fs-s1 mx-3 py-3 indigo no-underline hover-underline">Service</a>
         <a href="#" class="button bg-white black fw-600 no-underline mx-5">Register</a>
     </div>
 </nav>
